@@ -1,6 +1,8 @@
 # Scribble
 ## An Android App Developed in Android Studio
 
+#### Short Description: This Android app can be used to draw quick sketches. It's like a portable whiteboard.
+
 **Features**:
 - Draw on the canvas.
 - Change pen color.
